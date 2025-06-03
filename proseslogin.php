@@ -5,8 +5,8 @@ date_default_timezone_set('Asia/Jakarta');
 session_start();
 
 $username = $_POST['username'];
-$password1 = $_POST['password'];
-$password = sha1($password1);
+$password = $_POST['password'];
+// $password = sha1($password1);
 
 //$username = mysqli_real_escape_string($username);
 //$password = mysqli_real_escape_string($password);

@@ -79,7 +79,7 @@
               </ul>
             </li>
             
-            <li>
+            <!-- <li>
               <a href="#">
                 <i class="fa fa-file"></i> <span>Laporan</span> <i class="fa fa-angle-left pull-right"></i>
               </a>
@@ -89,7 +89,7 @@
                 <li><a href="404.php"><i class="fa fa-circle-o"></i> Laporan Balance Cuti</a></li>
                 <li><a href="404.php" target="_blank"><i class="fa fa-circle-o"></i> Cetak Karyawan</a></li>
               </ul>
-            </li>
+            </li> -->
         </section>
         <!-- /.sidebar -->
       </aside>

@@ -242,7 +242,7 @@
                           <div class="form-group">
                               <label class="col-sm-2 col-sm-2 control-label">Gambar</label>
                               <div class="col-sm-4">
-                            <input name="nama_file" type="file" id="nama_file" class="form-control" placeholder="Password" autocomplete="off" required />
+                            <input name="nama_file" type="file" id="nama_file" class="form-control" placeholder="Password" autocomplete="off" />
                               
                             </div>
                           </div>

@@ -28,10 +28,10 @@
   <body class="hold-transition" background="dist/img/2.jpg">
     <div class="login-box">
       <div class="login-logo">
-        <a href="#" style="color: white;"><!-- <span class="glyphicon glyphicon-th-large"></span> --> Leave Application </a>
+        <a href="#" style="color: white;"><!-- <span class="glyphicon glyphicon-th-large"></span> -->CUTI KARYAWAN</a>
       </div><!-- /.login-logo -->
       <div class="login-box-body">
-      <center><img src="dist/img/niqoweb.png" /></center>
+      <center><img style="width: 100px;" src="dist/img/logo-login.png" /></center>
          <p class="login-box-msg"><?php if (isset($_GET['error'])) {echo 
                   "<div class='alert alert-danger alert-gradient alert-dismissible fade in' role='alert'>
                             <button type='button' class='close' data-dismiss='alert' aria-label='Close'><span aria-hidden='true'>x</span></button>
@@ -53,7 +53,7 @@
           </div>
         </form>
 
-        <center><h5 class="form-signin"><a href="#" data-toggle="modal" data-target="#contact">Hakko Bio Richard &copy; 2019</a> </h5></center> 
+        <!-- <center><h5 class="form-signin"><a href="#" data-toggle="modal" data-target="#contact">Hakko Bio Richard &copy; 2019</a> </h5></center>  -->
 
       </div><!-- /.login-box-body -->
     </div><!-- /.login-box -->
@@ -68,7 +68,7 @@
         <h4 class="modal-title" id="myModalLabel">Contact Us</h4>
       </div>
       <div class="modal-body">
-      Aplikasi ini dibuat oleh
+      <!-- Aplikasi ini dibuat oleh
        Hakko Bio Richard yang dapat dihubungi di :
       <table>
       <tr>
@@ -86,7 +86,7 @@
       <tr>
       <td>Website</td>    <td>:</td> <td><a href="http://www.niqoweb.com" target="_blank">www.niqoweb.com</a></td>
       </tr>
-       </table>
+       </table> -->
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
