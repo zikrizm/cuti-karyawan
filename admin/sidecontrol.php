@@ -11,7 +11,7 @@
           <div class="tab-pane" id="control-sidebar-home-tab">
             <h3 class="control-sidebar-heading">Profile Web Developer</h3>
             <ul class="control-sidebar-menu">
-              <li>
+              <!-- <li>
                 <a href="http://www.facebook.com/accho.blues">
                   <i class="menu-icon fa fa-birthday-cake bg-red"></i>
                   <div class="menu-info">
@@ -46,7 +46,7 @@
                     <p>www.hakkoblogs.com</p>
                   </div>
                 </a>
-              </li>
+              </li> -->
             </ul><!-- /.control-sidebar-menu -->
 
             <h3 class="control-sidebar-heading">Skills</h3>
@@ -140,7 +140,7 @@
                   <i class="menu-icon fa fa-envelope-o bg-light-blue"></i>
                   <div class="menu-info">
                     <h4 class="control-sidebar-subheading">Email</h4>
-                    <p>hakkobiorichard@gmail.com</p>
+                    <!-- <p>hakkobiorichard@gmail.com</p> -->
                   </div>
                 </a>
               </li>

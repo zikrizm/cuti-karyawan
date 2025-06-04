@@ -45,13 +45,13 @@
                 <div class="row">
                 <div class="col-lg-12">
 <pre>
-Untuk mendapatkan fitur ini silahkan hubungi admin www.hakkoblogs.com  di : 
+<!-- Untuk mendapatkan fitur ini silahkan hubungi admin www.hakkoblogs.com  di : 
 
 No Telepon	:	0856 949 848 03
 SMS/WA/TG	:	0856 949 848 03
 E-mail	:	hakkobiorichard@gmail.com | hakko_bio_richard@yahoo.co.id
 Blog	:	www.hakkoblogs.com
-Website	:	www.niqoweb.com
+Website	:	www.niqoweb.com -->
 </pre>
                 </div>
            </div>

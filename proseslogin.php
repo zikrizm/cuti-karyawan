@@ -5,11 +5,11 @@ date_default_timezone_set('Asia/Jakarta');
 session_start();
 
 $username = $_POST['username'];
-$password = $_POST['password'];
-// $password = sha1($password1);
+$password1 = $_POST['password'];
+$password = sha1($password1);
 
-//$username = mysqli_real_escape_string($username);
-//$password = mysqli_real_escape_string($password);
+// $username = mysqli_real_escape_string($username);
+// $password = mysqli_real_escape_string($password);
 
 if (empty($username) && empty($password)) {
 	header('location:index.php?error=Username dan Password Kosong!');
